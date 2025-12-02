@@ -20,3 +20,8 @@ dse spark-submit --class com.datastax.hackaton.graph.graphLoadingWithMultiThread
 ## Output
 
 ![alt text](https://github.com/vinodjembu/graph/blob/master/images/Screen%20Shot%202019-08-01%20at%202.47.17%20PM.png "Graph Output")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvinodjembu%2Fgraph.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvinodjembu%2Fgraph?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvinodjembu%2Fgraph.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvinodjembu%2Fgraph?ref=badge_large)
